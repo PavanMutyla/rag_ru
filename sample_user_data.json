@@ -1,0 +1,37 @@
+{
+    "sematic": {
+      "demographic": {
+        "age": 30,
+        "employment_type": "salaried",
+        "dependents": 0,
+        "health_status": "good",
+        "risk_appetite": 0,
+        "financial_maturity": 0,
+        "location": "tier_1"
+
+      },
+      "financial": {
+        "salary": 100000,
+        "business_value": 0,
+        "current_savings_and_investments": 1000000,
+        "debts": 0,
+        "market_outlook": "neutral",
+       "include_insights": true,
+        "is_housing_loan": false,
+        "monthly_expenses": 50000,
+        "property_value": 0,
+        "real_estate_type": "tier_1_residential",
+        "real_estate_value": 0,
+        "region": "ind",
+        "savings_percentage": 20
+      }
+    },
+    "episodic": {
+      
+      "prefrences": [
+        "doesn't like crypto",
+        "doesn't want to be exposed to energy sector too much"
+      ]
+    }
+  }
+  

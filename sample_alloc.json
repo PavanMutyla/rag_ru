@@ -1,0 +1,58 @@
+{
+    "equity": [
+      {
+        "type": "mutual_fund",
+        "amount": 150000,
+        "category": "index_fund",
+        "label": "Nippon India Nifty 50 Index Fund",
+        "portfolio": []
+      },
+      {
+        "type": "mutual_fund",
+        "amount": 75000,
+        "category": "large_and_mid_cap",
+        "label": "Mirae Asset Emerging Bluechip",
+        "portfolio": []
+      },
+      {
+        "type": "mutual_fund",
+        "amount": 25000,
+        "category": "hybrid_fund",
+        "label": "HDFC PSU 50",
+        "portfolio": []
+      }
+    ],
+    "debt": [
+      {
+        "type": "debt_fund",
+        "amount": 100000,
+        "category": "short_duration_fund",
+        "label": "ICICI Prudential Short Term Fund"
+      }
+    ],
+    "metals": [
+      {
+        "type": "gold",
+        "category": "etf",
+        "label": "Axis Gold ETF",
+        "amount": 50000
+      }
+    ],
+    "fixed_deposite": [
+      {
+        "type": "fd",
+        "amount": 200000,
+        "tenure": "1 year",
+        "interest_rate": "6.5%",
+        "bank": "HDFC Bank"
+      }
+    ],
+    "real_estate": [
+      {
+        "type": "plot",
+        "amount": 300000,
+        "label": "Tier 1 residential - upcoming investment"
+      }
+    ]
+  }
+  
